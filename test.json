@@ -1,0 +1,97 @@
+{
+    "businesses": [
+        {
+            "id": "lenzYIvN2Dk06boef6dfgg",
+            "alias": "osteria-quarantaquattro-roma",
+            "name": "Osteria Quarantaquattro",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KOkqqO35wtRxDqeHA4dXNg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/osteria-quarantaquattro-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+            "review_count": 464,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.9070413,
+                "longitude": 12.4951492
+            },
+            "transactions": [],
+            "price": "€€€",
+            "location": {
+                "address1": "Via Aureliana 42",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00187",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Aureliana 42",
+                    "00187 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390642013318",
+            "display_phone": "+39 06 4201 3318",
+            "distance": 3353.6234078384955
+        },
+        {
+            "id": "a2RXf4VnQC-LsNERUf-bUw",
+            "alias": "ai-tre-scalini-roma",
+            "name": "Ai Tre Scalini",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0YklDi99A7YIBRsLHj7YUA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ai-tre-scalini-roma?adjust_creative=DSj6I8qbyHf-Zm2fGExuug&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DSj6I8qbyHf-Zm2fGExuug",
+            "review_count": 452,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.8962951860604,
+                "longitude": 12.490467219049
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Via Panisperna 251",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00184",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Panisperna 251",
+                    "00184 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390648907495",
+            "display_phone": "+39 06 4890 7495",
+            "distance": 4036.6589351856483
+        } 
+    ],
+    "total": 7400,
+    "region": {
+        "center": {
+            "longitude": 12.535400390625,
+            "latitude": 41.91026940222348
+        }
+    }
+}
